@@ -1,0 +1,46 @@
+
+
+/*
+Author: Bootstrapthemes
+Author URI: http://www.xpeedstudio.com
+*/
+
+/* desktops */
+@media (min-width: 1500px) {
+
+}
+@media (min-width: 1199px) {
+
+}
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Portrait tablets and small desktops */
+/*@media (max-width: 992px) {
+
+}*/
+
+
+/* Portrait tablets and small desktops */
+@media (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 768px) {
+.first h2 {margin-top:1rem;}
+
+}
+/* Landscape phones and smaller */
+@media (max-width: 479px) {
+.start {font-size: 1.5rem;}
+h1 {font-size: 2.5rem};
+}
+
+@media (max-width: 400px) {
+.start {font-size: 1rem;}
+h1 {font-size: 2.1rem};
+}
+
